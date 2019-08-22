@@ -58,8 +58,7 @@ export const StyledHome = styled.div`
       text-align: center;
       color: #e5e5e5;
       text-shadow: 0px 4px 10px #666a7c;
-      @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Roboto', sans-serif;
     }
     form {
       display: flex;
